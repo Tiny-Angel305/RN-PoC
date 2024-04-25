@@ -1,0 +1,12 @@
+{
+    "surveys": "Surveys",
+    "my_balance": "My Balance",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "priority": "Priority",
+    "select_priority": "Please select a priority",
+    "item1": "You have chosen the first item in the Picker Select controller.",
+    "item2": "You have chosen the second item in the Picker Select controller.",
+    "item3": "You have chosen the third item in the Picker Select controller."
+}

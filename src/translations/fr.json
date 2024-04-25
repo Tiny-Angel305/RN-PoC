@@ -1,0 +1,12 @@
+{
+    "surveys": "Sondages",
+    "my_balance": "Mon solde",
+    "name": "Nom",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "priority": "Priorité",
+    "select_priority": "Veuillez sélectionner une priorité",
+    "item1": "Vous avez choisi le premier élément dans le contrôleur Picker Select.",
+    "item2": "Vous avez choisi le deuxième élément dans le contrôleur Picker Select.",
+    "item3": "Vous avez choisi le troisième élément dans le contrôleur Picker Select."
+}
