@@ -127,6 +127,7 @@ function Home() {
               style={pickerSelectStyles}
               useNativeAndroidPickerStyle={false}
               textInputProps={{multiline: true}}
+              pickerProps={{ numberOfLines: 3 }}
             />
           </View>
         </View>
